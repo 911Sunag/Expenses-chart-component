@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL:([https://your-solution-url.com](https://github.com/911Sunag/Expenses-chart-component))
 
 ### Built with
 
